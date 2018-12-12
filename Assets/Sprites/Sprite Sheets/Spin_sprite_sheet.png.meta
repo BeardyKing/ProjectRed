@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: e1df1d1072ecf4a48a6c7b937690381d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spin_sprite_sheet_0
+    21300002: Spin_sprite_sheet_1
+    21300004: Spin_sprite_sheet_2
+    21300006: Spin_sprite_sheet_3
+    21300008: Spin_sprite_sheet_4
+    21300010: Spin_sprite_sheet_5
+    21300012: Spin_sprite_sheet_6
+    21300014: Spin_sprite_sheet_7
+    21300016: Spin_sprite_sheet_8
+    21300018: Spin_sprite_sheet_9
+    21300020: Spin_sprite_sheet_10
+    21300022: Spin_sprite_sheet_11
+    21300024: Spin_sprite_sheet_12
+    21300026: Spin_sprite_sheet_13
+    21300028: Spin_sprite_sheet_14
+    21300030: Spin_sprite_sheet_15
+    21300032: Spin_sprite_sheet_16
+    21300034: Spin_sprite_sheet_17
+    21300036: Spin_sprite_sheet_18
+    21300038: Spin_sprite_sheet_19
+    21300040: Spin_sprite_sheet_20
+    21300042: Spin_sprite_sheet_21
+    21300044: Spin_sprite_sheet_22
+    21300046: Spin_sprite_sheet_23
+    21300048: Spin_sprite_sheet_24
+    21300050: Spin_sprite_sheet_25
+    21300052: Spin_sprite_sheet_26
+    21300054: Spin_sprite_sheet_27
+    21300056: Spin_sprite_sheet_28
+    21300058: Spin_sprite_sheet_29
+    21300060: Spin_sprite_sheet_30
+    21300062: Spin_sprite_sheet_31
+    21300064: Spin_sprite_sheet_32
+    21300066: Spin_sprite_sheet_33
+    21300068: Spin_sprite_sheet_34
+    21300070: Spin_sprite_sheet_35
+    21300072: Spin_sprite_sheet_36
+    21300074: Spin_sprite_sheet_37
+    21300076: Spin_sprite_sheet_38
+    21300078: Spin_sprite_sheet_39
+    21300080: Spin_sprite_sheet_40
+    21300082: Spin_sprite_sheet_41
+    21300084: Spin_sprite_sheet_42
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c36a6d956e47d7b6c7a97f21bb97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3537853b78cc44b23a9557d87ba3c699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a49ebf56ca046a387330e0f6ac0ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d9992f621a4ea788eafc2b947a9d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa236b0185f94a4ebb7ac9d1b27a05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81a8c7d477c40fa9e4ab5aa058a79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f44ba4224ba4ec89855f3d2f02ad41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a331ffcdd9463eb6498836eeeea1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 4320
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56e2e8cff98452394c218507bab388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe4b19aac5e40a392d84b9ed3aec19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b00524a6df94d3f931aa6f7ca6cdf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f179f4efcaa74fe1b6fce9a123984ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767a9a4eabe545ecbab4d62dfd5ca4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303c74467bfc499c9921026d01102a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16cf20414284a13be7cee56aaa7200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1ed4d9d851487e8372479206ab7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4bf650eb5fe43e6804731216d4a98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 3240
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1199919cf9744f083fba2e786b8553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9599c3c6615e438e8c4872d5a59f266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a00cdc11424d38accd8d9e84edbad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd319f95db9e4677a67b4c76af80cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb662d4daca6a4dc78f0d95fe9cc37f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc43079d8c34e85b03aea11f7766e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237b52b03ab94d778134ffc088d81c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4844c88bae954a48be7a92c0790f53e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bf62bc4308469baf8bdf82a06cdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 2160
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a664db75602486e9d34af8851ddbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c989a81ea948a5a706f4aa3bd8c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b9ec6c4455409f86ab405549b693a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c5f4e16c1646cebd5cee08855f753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace98a6d698ad40a7817e6b208a39a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb334e3461a43978716d44bcb75636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a56f13139604eaab65a3da8a13c8d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512d468ce52a49a98873ba094922287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f4e66c8eaf4ab38b716aa4c7b2cd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 1080
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416a1f10c51c43208f0658853acf32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d77efa3e0ac4a96960c9e9bd7162fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a1a570cafa48c399f5b6c9cd3f7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70550fe05b334416b96dccd53932bd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402428a940ac74803af35d48f543976a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40c6e69cd4e4ce693bd0080fb1f025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf97ffeff9b4064bd582a3fba84536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 0
+        width: 897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315799bd6446492281e1ac5a93ba807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9835e37a3c9e747aa8b938667828bb5f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
