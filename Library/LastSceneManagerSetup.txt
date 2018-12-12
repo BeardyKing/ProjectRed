@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Levels/TestingEnviroment.unity
+- path: Assets/Levels/Mechanics & animations/Particles_Test_Scene.unity
   isLoaded: 1
   isActive: 1
