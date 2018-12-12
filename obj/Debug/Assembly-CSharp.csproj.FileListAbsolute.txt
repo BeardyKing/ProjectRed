@@ -1,0 +1,505 @@
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Boo.Lang.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/mscorlib.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/System.Core.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/System.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/System.Xml.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Locator.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEditor.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityScript.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Cecil.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Mono.Security.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEditor.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/iiv/Documents/Unity Projects/UniTimeGame/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/iiv/Documents/Unity Projects/UniTimeGame/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/iiv/Documents/Unity Projects/UniTimeGame/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/iiv/Documents/Unity Projects/UniTimeGame/obj/Debug/Assembly-CSharp.dll
+/Users/iiv/Documents/Unity Projects/UniTimeGame/obj/Debug/Assembly-CSharp.pdb
+/Users/iiv/Documents/gitHub/UnityGitClones/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/iiv/Documents/gitHub/UnityGitClones/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/iiv/Documents/gitHub/UnityGitClones/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.dll
+/Users/iiv/Documents/gitHub/UnityGitClones/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.pdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/obj/Debug/Assembly-CSharp.pdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Boo.Lang.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/mscorlib.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/System.Core.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/System.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/System.Xml.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Locator.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEditor.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityScript.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Mono.Security.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEditor.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Oliver/Documents/GitHub/TimeLessUniGame/UniTimeGame/Temp/bin/Debug/Unity.IvyParser.dll.mdb
