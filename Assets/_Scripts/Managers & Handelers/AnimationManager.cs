@@ -21,7 +21,12 @@ public class AnimationManager : MonoBehaviour {
     void Start () {
 
         anim = GetComponent<Animator>();
-		posData = GetComponent<PositionData>().timePositions;
+
+        if (GetComponent<PositionData>())
+        {
+            posData = GetComponent<PositionData>().timePositions;
+        }
+		
         anim.Play("Age1");
 
 
@@ -66,6 +71,8 @@ public class AnimationManager : MonoBehaviour {
     void initializeColliders()
     {
 
+        //posData = GetComponent<PositionData>().timePositions;
+
         if (firstFrame > 0)
         {
             resetPolyCollider();
@@ -75,7 +82,12 @@ public class AnimationManager : MonoBehaviour {
 
 	void UpdatePositionOnAgeChange(){
 
-		transform.position = posData[StaticData.CurrentAge -1];
+        if(posData != null)
+        {
+            transform.position = posData[StaticData.CurrentAge - 1];
+        }
+        
+		
 	}
 
     void changeSprite(int age){

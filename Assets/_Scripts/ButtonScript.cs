@@ -23,6 +23,6 @@ public class ButtonScript : MonoBehaviour {
     private void Update()
     {
         transform.parent.GetComponent<Animator>().SetBool("down", down);
-        print(down);
+        //print(down);
     }
 }

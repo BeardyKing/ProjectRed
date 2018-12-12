@@ -50,7 +50,7 @@ public class DrawHalo : MonoBehaviour {
         UpdateLineStyle();
 
 
-        print(gameObject.name + "Scale: " + getScale());
+        //print(gameObject.name + "Scale: " + getScale());
     }
 
 

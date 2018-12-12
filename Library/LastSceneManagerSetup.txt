@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/From Kingsley with love/Controls.unity
+- path: Assets/Levels/levels/Level_1.unity
   isLoaded: 1
   isActive: 1

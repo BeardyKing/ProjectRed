@@ -12,7 +12,8 @@ public class ParallaxController : MonoBehaviour {
 	public GameObject[] bg_1;
 
 	float offsetX;
-	float offsetY;
+    [Range(-5,5)]
+	public float offsetY;
 	float i;
 
 	public int lvl = 0;
@@ -36,7 +37,7 @@ public class ParallaxController : MonoBehaviour {
 			i += 0.03f;
 			for (int i = 0; i < bg_1.Length - 1; i++) {
 
-				bg_1[i].transform.position = new Vector3(offsetX * Mathf.Pow(bg_1.Length - i, 1.5f), 0, 0);
+				bg_1[i].transform.position = new Vector3(offsetX * Mathf.Pow(bg_1.Length - i, 1.5f), offsetY, 0);
 			}
 		}
 	}
