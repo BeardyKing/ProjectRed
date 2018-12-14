@@ -54,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48.333332
+  spritePixelsToUnits: 55
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -107,12 +107,12 @@ TextureImporter:
       name: cave_outside_dark_final_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 323
-        width: 145
-        height: 145
+        x: 4
+        y: 324
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -127,12 +127,12 @@ TextureImporter:
       name: cave_outside_dark_final_1
       rect:
         serializedVersion: 2
-        x: 158
-        y: 323
-        width: 145
-        height: 145
+        x: 159
+        y: 324
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: cave_outside_dark_final_2
       rect:
         serializedVersion: 2
-        x: 313
-        y: 323
-        width: 145
-        height: 145
+        x: 314
+        y: 324
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,11 +168,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3
-        y: 168
-        width: 145
-        height: 145
+        y: 169
+        width: 144
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,12 +187,12 @@ TextureImporter:
       name: cave_outside_dark_final_4
       rect:
         serializedVersion: 2
-        x: 158
-        y: 168
-        width: 145
-        height: 145
+        x: 159
+        y: 169
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: cave_outside_dark_final_5
       rect:
         serializedVersion: 2
-        x: 313
-        y: 168
-        width: 145
-        height: 145
+        x: 314
+        y: 169
+        width: 144
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: cave_outside_dark_final_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 13
-        width: 145
-        height: 145
+        x: 6
+        y: 14
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: cave_outside_dark_final_7
       rect:
         serializedVersion: 2
-        x: 158
-        y: 13
-        width: 145
-        height: 145
+        x: 159
+        y: 14
+        width: 143
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: cave_outside_dark_final_8
       rect:
         serializedVersion: 2
-        x: 313
-        y: 13
-        width: 145
-        height: 145
+        x: 314
+        y: 14
+        width: 144
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

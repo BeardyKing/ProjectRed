@@ -84,11 +84,15 @@ public class DrawHalo : MonoBehaviour {
                 return mats[1];
             case "object2":
                 return mats[2];
+            case "aim":
+                return mats[3];
             default:
                 return mats[0];
         }
     }
 
+
+    
     void DrawLines(Vector2 pos)
     {
 
@@ -215,6 +219,10 @@ public class DrawHalo : MonoBehaviour {
         else if (player.GetComponent<FreezeGun>().currentObject == gameObject)
         {
             state = "selected";
+        }
+        else if(player.GetComponent<PlayerController>().playerState == "aim")
+        {
+            state = "aim";
         }
         else
         {

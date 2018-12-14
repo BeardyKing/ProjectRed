@@ -44,6 +44,10 @@ public class PlayerController : MonoBehaviour {
     [HideInInspector()]
     public bool climbing;
 
+    [Range(0,300)]
+    public float jumpForce = 200f;
+
+
 
 
 
@@ -148,7 +152,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Jump() {
 		if(jumpSinglePass == false){
-			GetComponent<Rigidbody2D>().AddForce(Vector3.up * 200);
+			GetComponent<Rigidbody2D>().AddForce(Vector3.up * jumpForce);
 			jumpSinglePass = true;
 		}
 	}

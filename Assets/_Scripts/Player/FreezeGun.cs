@@ -63,6 +63,10 @@ public class FreezeGun : MonoBehaviour {
 		dir = dir + offset; // added for temp fix
         arm.transform.rotation = Quaternion.Euler(0, 0, dir*Mathf.Rad2Deg);
 
+
+       
+
+
     }
 
     void freezeGun()
