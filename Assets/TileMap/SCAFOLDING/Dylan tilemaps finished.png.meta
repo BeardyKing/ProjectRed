@@ -355,9 +355,9 @@ TextureImporter:
       name: Dylan tilemaps finished_11
       rect:
         serializedVersion: 2
-        x: 973
+        x: 974
         y: 805
-        width: 147
+        width: 146
         height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
