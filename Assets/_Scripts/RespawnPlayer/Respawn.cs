@@ -13,7 +13,7 @@ public class Respawn : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D other)
     {
 
-        print(other.gameObject.name);
+        //print(other.gameObject.name);
 
         if(other.gameObject == player){
             other.gameObject.GetComponent<Animator>().SetTrigger("die");

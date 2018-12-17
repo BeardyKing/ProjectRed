@@ -91,7 +91,7 @@ public class AnimationManager : MonoBehaviour {
 	}
 
     void changeSprite(int age){
-        print("Changing "+gameObject.name +" to "+timeSprites[age-1].name);
+        //print("Changing "+gameObject.name +" to "+timeSprites[age-1].name);
 
         SpriteRenderer SR = GetComponent<SpriteRenderer>();
 
