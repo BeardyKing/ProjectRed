@@ -92,32 +92,26 @@ public class UI_fade_controller : MonoBehaviour {
 		}
 	}
 
-	public void EnvokeOnEnterTrigger() {
-
-	}
-
-	public void EnvokeOnExitTrigger() {
-
-	}
-
-	public void EnvokeOnExitAndEnterTrigger(int input) {
+	public void InvokeOnEnterTrigger(int input) {
 		activeUI = input;
-	
-		if (state == "hold-in") {
-			state = "fade-out";
-			for (int i = 0; i < children.Length; i++) {
-				if (activeUI == i) {
-					children[i].GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 1);
-				} else {
-					children[i].GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0);
-				}
-			}
-		} else if (state == "hold-out") {
+		if (state == "hold-out") {
 			state = "fade-in";
 			for (int i = 0; i < children.Length; i++) {
 				children[i].GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0);
 			}
+		} 
+	}
+
+	public void InvokeOnExitTrigger() {
+
+		for (int i = 0; i < children.Length; i++) {
+			if (activeUI == i) {
+				children[i].GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 1);
+			} else {
+				children[i].GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0);
+			}
 		}
+		state = "fade-out";
 	}
 
 	void KeyboardController() {

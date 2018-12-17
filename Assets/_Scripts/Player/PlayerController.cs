@@ -31,8 +31,7 @@ public class PlayerController : MonoBehaviour {
 
     [HideInInspector()]
     public string playerState = "move";  //  move aim.
-
-     bool doJump;
+    bool doJump;
 
     //ladderStuff
     [HideInInspector()]
