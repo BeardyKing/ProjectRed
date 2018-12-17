@@ -113,6 +113,7 @@
     <Compile Include="Assets\From Kingsley with love\LoadLevel.cs" />
     <Compile Include="Assets\From Kingsley with love\MakeTransition.cs" />
     <Compile Include="Assets\LerpToPlayer.cs" />
+    <Compile Include="Assets\ParallaxController2.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -159,6 +160,7 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\SetMaskToSprite.cs" />
+    <Compile Include="Assets\SetParralaxLevel.cs" />
     <Compile Include="Assets\UI_fade_controller.cs" />
     <Compile Include="Assets\UITriggerController.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
