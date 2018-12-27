@@ -161,6 +161,7 @@
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\SetMaskToSprite.cs" />
     <Compile Include="Assets\SetParralaxLevel.cs" />
+    <Compile Include="Assets\TimeClockShowController.cs" />
     <Compile Include="Assets\UI_fade_controller.cs" />
     <Compile Include="Assets\UITriggerController.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />

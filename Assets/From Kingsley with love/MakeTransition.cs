@@ -9,6 +9,8 @@ public class MakeTransition : MonoBehaviour {
 	Image box;
 	public bool startTransition = false;
 	public bool startedLevel = false;
+	float timer;
+	float maxTime = 0.2f;
 
 	// Use this for initialization
 	void Start () {
@@ -20,18 +22,35 @@ public class MakeTransition : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (startedLevel == true) {
-			box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (2f * Time.deltaTime));
-			if (box.color.a <= 0) {
-				startedLevel = false;
+		if (gameObject.name == "blackBox_lvl1") {
+			timer += Time.deltaTime;
+			if (startedLevel == true && timer > maxTime) {
+				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (0.5f * Time.deltaTime));
+				if (box.color.a <= 0) {
+					startedLevel = false;
+				}
+			}
+			if (startTransition == true) {
+				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (1f * Time.deltaTime));
+				//if (box.color.a >= 2) {
+				//	startTransition = false;
+				//}
+			}
+		} else {
+			if (startedLevel == true) {
+				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (2f * Time.deltaTime));
+				if (box.color.a <= 0) {
+					startedLevel = false;
+				}
+			}
+			if (startTransition == true) {
+				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (1f * Time.deltaTime));
+				//if (box.color.a >= 2) {
+				//	startTransition = false;
+				//}
 			}
 		}
-		if (startTransition == true) {
-			box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (1f*Time.deltaTime));
-			//if (box.color.a >= 2) {
-			//	startTransition = false;
-			//}
-		}
+
 	}
 
 

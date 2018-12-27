@@ -11,6 +11,11 @@ public class SetParralaxLevel : MonoBehaviour {
 		para.currentLevel = currentLevel;
 	}
 
+	// overkill fix
+	void OnTriggerStay2D(Collider2D collision) {
+		para.currentLevel = currentLevel;
+	}
+
 	void OnTriggerExit2D(Collider2D collision) {
 		para.currentLevel = 0;
 	}
