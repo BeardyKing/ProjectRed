@@ -9,16 +9,24 @@ public class AgeChanger : MonoBehaviour {
     float scrollCounter = 0.5f;
     float MoveBufferTime = 0.3f;
 
+    PlayerController controller;
+
 	// Use this for initialization
 	void Start () {
+        controller = GetComponent<PlayerController>();
 		refAge = StaticData.CurrentAge;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        ScrollToNextAge();
-		TestingAgeChanger();
-		UpdateRefAge();
+
+        if(controller.playerState != "aim")
+        {
+            ScrollToNextAge();
+            TestingAgeChanger();
+            UpdateRefAge();
+        }
+       
 	}
     
     void ScrollToNextAge(){
