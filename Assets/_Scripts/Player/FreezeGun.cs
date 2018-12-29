@@ -23,7 +23,10 @@ public class FreezeGun : MonoBehaviour {
 
     public GameObject arm;
 
-	[Range(0,Mathf.PI)]public float offset = 0; // added by kingsley to temp fix the arm
+
+    public LayerMask ALL;
+
+    [Range(0,Mathf.PI)]public float offset = 0; // added by kingsley to temp fix the arm
 
     private void Start()
     {
@@ -37,8 +40,13 @@ public class FreezeGun : MonoBehaviour {
             if (doAim)
             {
                 freezeGun();
+                nub.SetActive(true);
             }
-           
+            else
+            {
+                nub.SetActive(false);
+            }
+
         }
         else
         {
@@ -81,14 +89,31 @@ public class FreezeGun : MonoBehaviour {
         //updating positions
 
         //sending raycast and interpreting data
-        RaycastHit2D hit2D = Physics2D.Raycast(pos, direction, 1000, timeObjects);
+        RaycastHit2D hit2D = Physics2D.Raycast(pos, direction, 1000,ALL);
         Vector2 temp = (hit2D.collider != null) ? hit2D.point : direction * 100;
         Vector2 extra;
 
+
+       // print(hit2D.collider.name);
+
         //print(hit2D.collider);
-        if (hit2D.collider != null)
+        if (hit2D.collider != null)// && hit2D.collider.gameObject.layer == timeObjects)
         {
-            currentObject = hit2D.collider.gameObject;
+
+
+            //print(hit2D.collider.name);
+
+            if(hit2D.collider.gameObject.layer == timeObjects)
+            {
+                currentObject = hit2D.collider.gameObject;
+                print("HIT A TIME OBJECT");
+            }
+            else
+            {
+                currentObject = hit2D.collider.gameObject;
+                print("HIT ANOTHER OBJECT");
+            }
+
             extra = (direction).normalized * 0.2f;
             nub.transform.position = hit2D.point - extra;
             nub.SetActive(true);
@@ -99,6 +124,7 @@ public class FreezeGun : MonoBehaviour {
             currentObject = null;
             extra = Vector2.zero;
             nub.SetActive(false);
+            nub.transform.position = new Vector3(30, 30, 0);
 
         }
         //sending raycast and interpreting data
@@ -133,6 +159,9 @@ public class FreezeGun : MonoBehaviour {
 
             RayLine.material = mats[1];
              nub.GetComponent<SpriteRenderer>().color = Color.blue;
+
+            ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
+            main.startColor = Color.blue;
             if(StaticData.FrozenObjectOne == null && StaticData.FrozenObjectTwo != currentObject){
                 StaticData.FrozenObjectOne = currentObject;
 
@@ -146,6 +175,8 @@ public class FreezeGun : MonoBehaviour {
 
             RayLine.material = mats[2];
             nub.GetComponent<SpriteRenderer>().color = Color.yellow;
+            ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
+            main.startColor = Color.yellow;
             if (StaticData.FrozenObjectTwo == null && StaticData.FrozenObjectOne != currentObject)
             {
                 StaticData.FrozenObjectTwo = currentObject;
@@ -174,6 +205,8 @@ public class FreezeGun : MonoBehaviour {
         if(Input.GetMouseButtonUp(0)|| Input.GetMouseButtonUp(1)){
             RayLine.material = mats[0];
             nub.GetComponent<SpriteRenderer>().color = Color.green;
+            ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
+            main.startColor = Color.green;
         }
 
 
