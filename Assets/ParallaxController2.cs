@@ -21,7 +21,10 @@ public class ParallaxController2 : MonoBehaviour {
 	[Space(5)]
 
 	public float[] level1_xOffset;
+	//public float[] level1_yOffset;
+
 	public float[] level2_xOffset;
+	//public float[] level2_yOffset;
 
 	Vector3 lastCamPos;
 
@@ -35,15 +38,17 @@ public class ParallaxController2 : MonoBehaviour {
 		}
 		else if (currentLevel == 2) {
 			DoParallax(level2_backgrounds, level2_xOffset);
+		} else {
+			lastCamPos = camera.transform.position;
 		}
 	}
 
 	void DoParallax(GameObject[] backgrounds, float[] xOffset) {
 		for (int i = 0; i < backgrounds.Length; i++) {
-			float parallax = ((lastCamPos.x - camera.transform.position.x) * xOffset[i]) * Time.deltaTime;
+			float parallaxX = ((lastCamPos.x - camera.transform.position.x) * xOffset[i]) * Time.deltaTime;
 			backgrounds[i].transform.position = new
 				Vector3(
-				backgrounds[i].transform.position.x + parallax,
+				backgrounds[i].transform.position.x + parallaxX,
 				backgrounds[i].transform.position.y,
 				0);
 		}
