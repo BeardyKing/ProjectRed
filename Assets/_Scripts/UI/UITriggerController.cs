@@ -12,14 +12,23 @@ public class UITriggerController : MonoBehaviour {
 			lerpToPlayer.SetPosOfUI();
 			controller.InvokeOnEnterTrigger(0);
 		}
+		if (other.gameObject.tag == "UI_scroll") {
+			lerpToPlayer.SetPosOfUI();
+			controller.InvokeOnEnterTrigger(1);
+		}
 		if (other.gameObject.tag == "start") {
 			lerpToPlayer.SetPosOfUI();
 			controller.InvokeOnEnterTrigger(2);
 		}
+		
 	}
 
 	void OnTriggerExit2D(Collider2D other) {
 		if (other.gameObject.tag == "ladder") {
+			lerpToPlayer.isActive = false;
+			controller.InvokeOnExitTrigger();
+		}
+		if (other.gameObject.tag == "UI_scroll") {
 			lerpToPlayer.isActive = false;
 			controller.InvokeOnExitTrigger();
 		}

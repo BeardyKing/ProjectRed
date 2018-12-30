@@ -109,7 +109,6 @@
     <Compile Include="Assets\_Scripts\UI\LerpToPlayer.cs" />
     <Compile Include="Assets\_Scripts\UI\timeClockController.cs" />
     <Compile Include="Assets\_Scripts\UI\TimeClockShowController.cs" />
-    <Compile Include="Assets\_Scripts\UI\UI_fade_controller.cs" />
     <Compile Include="Assets\_Scripts\UI\UITriggerController.cs" />
     <Compile Include="Assets\_Scripts\wire\WireRecive.cs" />
     <Compile Include="Assets\_Scripts\wire\WireSend.cs" />
@@ -164,6 +163,8 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\UI_Animation.cs" />
+    <Compile Include="Assets\UI_fade_controller.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
