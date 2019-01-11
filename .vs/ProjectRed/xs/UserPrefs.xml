@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{73641ADC-C37B-065B-6881-3945829FDEA3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UI_Animation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Player/FreezeGun.cs">
     <Files>
       <File FileName="Assets/_Scripts/Player/FreezeGun.cs" Line="123" Column="10" />
       <File FileName="Assets/_Scripts/CopyParentValues.cs" Line="25" Column="1" />
       <File FileName="Assets/_Scripts/UI/LerpToPlayer.cs" Line="42" Column="1" />
       <File FileName="Assets/_Scripts/UI/UITriggerController.cs" Line="33" Column="37" />
-      <File FileName="Assets/UI_Animation.cs" Line="59" Column="68" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
