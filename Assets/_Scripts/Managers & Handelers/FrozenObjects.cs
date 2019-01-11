@@ -12,6 +12,14 @@ public class FrozenObjects : MonoBehaviour {
     public GameObject GUI2;
 
 
+    public Color[] colors =
+    {
+        Color.blue,
+        Color.yellow
+
+    };
+
+
 
     void Start () {
 		

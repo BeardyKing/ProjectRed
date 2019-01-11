@@ -6,14 +6,24 @@ public class ColourParticles : MonoBehaviour
 {
 
     // Use this for initialization
+    ParticleSystem particles;
+    FrozenObjects frozenObjects;
 
-    public ParticleSystem particles;
 
     bool findShape = true;
 
     ParticleSystem.MainModule main;
     ParticleSystem.EmissionModule emission;
     ParticleSystem.ShapeModule shape;
+
+   
+    public  Color[] colors  = new Color[]
+
+    {
+        Color.blue ,
+        Color.yellow
+    };
+
 
 
     public GameObject player;
@@ -26,6 +36,8 @@ public class ColourParticles : MonoBehaviour
         main = particles.main;
         emission = particles.emission;
         shape = particles.shape;
+        frozenObjects = GameObject.Find("EventHandeler").GetComponent<FrozenObjects>();
+        colors = frozenObjects.colors;
 
 
         //temp maybenot
@@ -49,7 +61,7 @@ public class ColourParticles : MonoBehaviour
         if (StaticData.FrozenObjectOne == gameObject)
         {
 
-            main.startColor = Color.blue;
+            main.startColor = colors[0];
             emission.rateOverTime = rate;
             print("make some particles here");
             if (findShape)
@@ -62,7 +74,8 @@ public class ColourParticles : MonoBehaviour
         }
         else if (StaticData.FrozenObjectTwo == gameObject)
         {
-            main.startColor = Color.yellow;
+            main.startColor = colors[1];
+
             emission.rateOverTime = rate;
 
             if (findShape)

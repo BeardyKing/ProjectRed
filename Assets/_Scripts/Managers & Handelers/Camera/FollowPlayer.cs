@@ -16,8 +16,11 @@ public class FollowPlayer : MonoBehaviour {
 	public float zDistance;
 	public float xOffset;
 	public float yOffset;
-
-	void Update() {
+    private void Awake()
+    {
+        transform.position = player.position;
+    }
+    void Update() {
 		cam.position = Vector3.Lerp(
 			new Vector3(
 				cam.position.x,

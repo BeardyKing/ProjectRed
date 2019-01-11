@@ -23,6 +23,8 @@ public class FreezeGun : MonoBehaviour {
 
     public GameObject arm;
 
+    FrozenObjects frozenObjects;
+    Color[] colors;
 
     public LayerMask ALL;
 
@@ -31,6 +33,12 @@ public class FreezeGun : MonoBehaviour {
     private void Start()
     {
         nub.GetComponent<SpriteRenderer>().color = Color.green;
+
+        frozenObjects = GameObject.Find("EventHandeler").GetComponent<FrozenObjects>();
+
+        colors = frozenObjects.colors;
+
+
     }
     void Update () {
 
@@ -146,22 +154,23 @@ public class FreezeGun : MonoBehaviour {
     {
         if (Input.GetMouseButtonDown(0))
         {
-			//if (StaticData.FrozenObjectOne != currentObject)
-     //       {
-     //           if (currentObject != null)
-     //           {
-					//StaticData.FrozenObjectOne = currentObject;
+            //if (StaticData.FrozenObjectOne != currentObject)
+            //       {
+            //           if (currentObject != null)
+            //           {
+            //StaticData.FrozenObjectOne = currentObject;
             //        RayLine.material = mats[1];
             //        nub.GetComponent<SpriteRenderer>().color = Color.blue;
             //    }
 
             //}
 
-            RayLine.material = mats[1];
-             nub.GetComponent<SpriteRenderer>().color = Color.blue;
+            RayLine.material.color = colors[0];
+            nub.GetComponent<SpriteRenderer>().color = colors[0];
+
 
             ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
-            main.startColor = Color.blue;
+            main.startColor = colors[0];
             if(StaticData.FrozenObjectOne == null && StaticData.FrozenObjectTwo != currentObject){
                 StaticData.FrozenObjectOne = currentObject;
 
@@ -173,10 +182,11 @@ public class FreezeGun : MonoBehaviour {
         if (Input.GetMouseButtonDown(1))
         {
 
-            RayLine.material = mats[2];
-            nub.GetComponent<SpriteRenderer>().color = Color.yellow;
+            RayLine.material.color = colors[1];
+            nub.GetComponent<SpriteRenderer>().color = colors[1];
+
             ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
-            main.startColor = Color.yellow;
+            main.startColor = colors[1];
             if (StaticData.FrozenObjectTwo == null && StaticData.FrozenObjectOne != currentObject)
             {
                 StaticData.FrozenObjectTwo = currentObject;
@@ -203,10 +213,10 @@ public class FreezeGun : MonoBehaviour {
         }
 
         if(Input.GetMouseButtonUp(0)|| Input.GetMouseButtonUp(1)){
-            RayLine.material = mats[0];
+            RayLine.material.color = Color.white;
             nub.GetComponent<SpriteRenderer>().color = Color.green;
             ParticleSystem.MainModule main = nub.GetComponent<ParticleSystem>().main;
-            main.startColor = Color.green;
+            main.startColor = Color.white;
         }
 
 
