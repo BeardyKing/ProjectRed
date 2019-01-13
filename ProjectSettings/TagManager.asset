@@ -12,6 +12,8 @@ TagManager:
   - caveTile
   - caveTexture
   - start
+  - UI_scroll
+  - UI_aim
   layers:
   - Default
   - TransparentFX
