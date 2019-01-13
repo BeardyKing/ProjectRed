@@ -11,9 +11,12 @@ public class CameraSize : MonoBehaviour {
     public float target = 5;
 
 
+    public float yExtra;
 
-	// Use this for initialization
-	void Start () {
+
+
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
@@ -35,7 +38,7 @@ public class CameraSize : MonoBehaviour {
 
         GetComponent<Camera>().orthographicSize = size;
 
-        float yOffset = 0.9f * (size - 2);
+        float yOffset = 0.9f * (size - 2) + yExtra;
 
         GetComponent<FollowPlayer>().yOffset = yOffset;
     }
