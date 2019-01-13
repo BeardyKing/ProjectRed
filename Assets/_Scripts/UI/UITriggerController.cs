@@ -7,18 +7,22 @@ public class UITriggerController : MonoBehaviour {
 	public UI_fade_controller controller;
 	public LerpToPlayer lerpToPlayer;
 	Collider2D lastCol;
+	public PlayerController player;
 
 	int lastAge = 1;
+	string lastState = "move";
+
+	public int uiState = 0;
 
 	public void Update() {
-		if (lastAge != StaticData.CurrentAge) {
+		if (lastAge != StaticData.CurrentAge || lastState != player.playerState) {
 			if (lastCol.gameObject.tag  == "UI_aim") {
 				controller.InvokeOnExitTrigger();
 				OnTriggerEnter2D(lastCol);
-				Debug.Log("CALLED");
 			}
 		}
 		lastAge = StaticData.CurrentAge;
+		lastState = player.playerState;
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {
@@ -43,11 +47,21 @@ public class UITriggerController : MonoBehaviour {
 
 	void DoInOneSecond() {
 		if (StaticData.CurrentAge == 1) {
+			uiState = 0;
 			controller.InvokeOnEnterTrigger(1);
 		}
 		if (StaticData.CurrentAge == 2) {
-			controller.InvokeOnEnterTrigger(3);
+			if (player.playerState == "move") {
+				uiState = 1;
+				controller.InvokeOnEnterTrigger(4);
+			}
+			else if (player.playerState == "aim") {
+				uiState = 2;
+				controller.InvokeOnEnterTrigger(3);
+			}
+
 		}
+		lerpToPlayer.SetPosOfUI();
 	}
 
 	void OnTriggerExit2D(Collider2D other) {

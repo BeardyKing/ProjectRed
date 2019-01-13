@@ -15,7 +15,7 @@ public class UI_fade_controller : MonoBehaviour {
 	public GameObject[] children;
 	public SpriteRenderer[] childImages;
 
-	[Range(0,3)]
+	[Range(0,4)]
 	public int activeUI;
 	public string state;
 	bool singlePass = true;
