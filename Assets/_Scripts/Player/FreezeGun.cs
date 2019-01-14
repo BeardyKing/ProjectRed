@@ -60,6 +60,7 @@ public class FreezeGun : MonoBehaviour {
         {
             doAim = false;
             Vector3[] empty = new Vector3[2];
+            nub.SetActive(false);
 
             RayLine.SetPositions(empty);
         }
