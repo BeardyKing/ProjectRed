@@ -53,6 +53,9 @@ public class LerpToPlayer : MonoBehaviour {
 		}
 		else if(cont.activeUI == 4) {
 			xOffset = 1.8f;
+		} 
+		else if (cont.activeUI == 5) {
+			xOffset = 2.8f;
 		}
 	}
 

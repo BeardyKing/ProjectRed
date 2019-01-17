@@ -14,6 +14,7 @@ TagManager:
   - start
   - UI_scroll
   - UI_aim
+  - space_tut
   layers:
   - Default
   - TransparentFX

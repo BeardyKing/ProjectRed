@@ -20,6 +20,7 @@ public class CopyParentValues : MonoBehaviour {
 		UITwo();
 		UIThree();
 		UIFour();
+		UIFive();
 
 	}
 	void UIZero() {
@@ -135,6 +136,34 @@ public class CopyParentValues : MonoBehaviour {
 
 	void UIFour() {
 		if (cont.activeUI == 4 && transform.name == "UI_img_4") {
+			if (cont.state == "hold-in") {
+				if (rend.color.a < 1) {
+					rend.color =
+					new Color(
+						1,
+						1,
+						1,
+						rend.color.a + (3f * Time.deltaTime)
+					);
+				}
+			} else if (cont.state == "fade-out") {
+				if (rend.color.a > 0) {
+					rend.color =
+					new Color(
+						1,
+						1,
+						1,
+						rend.color.a - (8f * Time.deltaTime)
+					);
+				}
+			} else if (cont.state == "hold-out") {
+				rend.color = new Color(1, 1, 1, 0);
+			}
+		}
+	}
+
+	void UIFive() {
+		if (cont.activeUI == 5 && transform.name == "UI_img_5") {
 			if (cont.state == "hold-in") {
 				if (rend.color.a < 1) {
 					rend.color =
