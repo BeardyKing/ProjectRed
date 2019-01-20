@@ -36,22 +36,48 @@ public class MakeTransition : MonoBehaviour {
 				//	startTransition = false;
 				//}
 			}
-		} else {
-			if (startedLevel == true) {
-				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (2f * Time.deltaTime));
-				if (box.color.a <= 0) {
-					startedLevel = false;
-				}
-			}
-			if (startTransition == true) {
-				box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (1f * Time.deltaTime));
-				//if (box.color.a >= 2) {
-				//	startTransition = false;
-				//}
-			}
 		}
 
-	}
+
+        else if (gameObject.name == "blackBox_end")
+        {
+            timer += Time.deltaTime;
+            if (startedLevel == true && timer > maxTime)
+            {
+                box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (0.5f* Time.deltaTime));
+                if (box.color.a <= 0)
+                {
+                    startedLevel = false;
+                }
+            }
+            if (startTransition == true)
+            {
+                box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (0.25f * Time.deltaTime));
+                //if (box.color.a >= 2) {
+                //  startTransition = false;
+                //}
+            }
+        }
+        else
+        {
+            if (startedLevel == true)
+            {
+                box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a - (2f * Time.deltaTime));
+                if (box.color.a <= 0)
+                {
+                    startedLevel = false;
+                }
+            }
+            if (startTransition == true)
+            {
+                box.color = new Color(box.color.r, box.color.g, box.color.b, box.color.a + (1f * Time.deltaTime));
+                //if (box.color.a >= 2) {
+                //  startTransition = false;
+                //}
+            }
+        }
+
+    }
 
 
 }

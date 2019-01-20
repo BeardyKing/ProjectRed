@@ -38,7 +38,7 @@ public class LoadLevel : MonoBehaviour {
 			singlePass = true;
 			box.startTransition = true;
 		}
-		Invoke("WaitBeforeLoad", 1.4f);
+		Invoke("WaitBeforeLoad",4);
 	}
 
 	void WaitBeforeLoad(){

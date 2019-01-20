@@ -5,6 +5,7 @@ using UnityEngine;
 public class FadeToCredits : MonoBehaviour
 {
 	public LoadLevel loadLevel;
+    public Animator anim;
 
     // Start is called before the first frame update
     void Start()
@@ -20,7 +21,9 @@ public class FadeToCredits : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D other) {
 		if (other.gameObject.tag == "Player") {
+            anim.SetBool("Rise", true);
 			loadLevel.SelectLevelWait2(3);
+            other.GetComponent<PlayerController>().playerState = "Respawn";
 		}
 	}
 }

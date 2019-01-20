@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Levels/levels/AAA_Final.unity
+- path: Assets/From Kingsley with love/Credits.unity
   isLoaded: 1
   isActive: 1

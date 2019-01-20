@@ -55,7 +55,13 @@ public class PlayerController : MonoBehaviour {
 		lastPos = currentPos;
 	}
 
-	void Update() {
+
+    public void AAA_SpawnFinished()
+    {
+        playerState = "move";
+    }
+
+    void Update() {
 		if (StaticData.GameState == "running") {
 
             if(playerState == "move")
