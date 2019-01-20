@@ -118,6 +118,7 @@
     <Compile Include="Assets\_Scripts\z_old\SetBufferPos.cs" />
     <Compile Include="Assets\Emancipation_Animation.cs" />
     <Compile Include="Assets\EmancipationGrid.cs" />
+    <Compile Include="Assets\FadeToCredits.cs" />
     <Compile Include="Assets\From Kingsley with love\LoadLevel.cs" />
     <Compile Include="Assets\From Kingsley with love\MakeTransition.cs" />
     <Compile Include="Assets\Mouse_UI.cs" />
