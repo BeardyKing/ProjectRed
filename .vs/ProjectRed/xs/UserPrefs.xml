@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{73641ADC-C37B-065B-6881-3945829FDEA3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/From Kingsley with love/MakeTransition.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Object_Generic/CraneParentingScript.cs">
     <Files>
       <File FileName="Assets/_Scripts/UI/ChangeCameraSize.cs" Line="34" Column="61" />
       <File FileName="Assets/_Scripts/UI/UITriggerController.cs" Line="1" Column="1" />
@@ -8,7 +8,7 @@
       <File FileName="Assets/UI_Animation_Aim.cs" Line="52" Column="7" />
       <File FileName="Assets/UI_Animation.cs" Line="1" Column="1" />
       <File FileName="Assets/_Scripts/CopyParentValues.cs" Line="1" Column="1" />
-      <File FileName="Assets/_Scripts/Player/PlayerController.cs" Line="57" Column="5" />
+      <File FileName="Assets/_Scripts/Player/PlayerController.cs" Line="26" Column="29" />
       <File FileName="Assets/_Scripts/Player/FreezeGun.cs" Line="1" Column="1" />
       <File FileName="Assets/EmancipationGrid.cs" Line="20" Column="6" />
       <File FileName="Assets/Emancipation_Animation.cs" Line="10" Column="22" />
@@ -17,9 +17,15 @@
       <File FileName="Assets/_Scripts/RespawnPlayer/Respawn.cs" Line="36" Column="86" />
       <File FileName="Assets/killPlayer.cs" Line="41" Column="1" />
       <File FileName="Assets/_Scripts/Player/animatePlayer.cs" Line="1" Column="1" />
-      <File FileName="Assets/FadeToCredits.cs" Line="25" Column="29" />
-      <File FileName="Assets/From Kingsley with love/LoadLevel.cs" Line="38" Column="22" />
-      <File FileName="Assets/From Kingsley with love/MakeTransition.cs" Line="1" Column="1" />
+      <File FileName="Assets/FadeToCredits.cs" Line="21" Column="5" />
+      <File FileName="Assets/From Kingsley with love/LoadLevel.cs" Line="41" Column="30" />
+      <File FileName="Assets/From Kingsley with love/MakeTransition.cs" Line="59" Column="14" />
+      <File FileName="Assets/_Scripts/Object_Generic/carryObject.cs" Line="27" Column="6" />
+      <File FileName="Assets/_Scripts/StaticData/StaticData.cs" Line="10" Column="5" />
+      <File FileName="Assets/_Scripts/_NO_IDEA_LOOK_AT_THIS_OLLIE_SCRIPS/PositionData.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Managers &amp; Handelers/AnimationManager.cs" Line="44" Column="29" />
+      <File FileName="Assets/_Scripts/Minecart/MinecartScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Object_Generic/CraneParentingScript.cs" Line="12" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -3612,11 +3612,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 103.9
+      value: 77.13
       objectReference: {fileID: 0}
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22
+      value: 21.59
       objectReference: {fileID: 0}
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12307,7 +12307,6 @@ GameObject:
   m_Component:
   - component: {fileID: 709502092}
   - component: {fileID: 709502103}
-  - component: {fileID: 709502102}
   - component: {fileID: 709502101}
   - component: {fileID: 709502100}
   - component: {fileID: 709502099}
@@ -12317,11 +12316,10 @@ GameObject:
   - component: {fileID: 709502095}
   - component: {fileID: 709502094}
   - component: {fileID: 709502093}
-  - component: {fileID: 709502105}
   - component: {fileID: 709502106}
   - component: {fileID: 709502104}
   m_Layer: 8
-  m_Name: timeObject
+  m_Name: timeObject_CraneBox
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12338,7 +12336,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.1, y: 18.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1197322763}
   m_Father: {fileID: 2000115983}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -12437,7 +12436,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 103
+  m_SortingOrder: 102
   m_RenderMode: 0
   m_SortMode: 1
   m_MinParticleSize: 0
@@ -17158,47 +17157,6 @@ MonoBehaviour:
   haloWidth: 0.1
   style: {fileID: 0}
   keepToMainStyle: 1
---- !u!60 &709502102
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 60526417880441432, guid: 724933be163265e45becb20e5bcae81f,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 709502091}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5466666, y: 1.4666667}
-    newSize: {x: 0.92753625, y: 1.0144928}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.7733334, y: -0.43333334}
-      - {x: 0.7666667, y: 0.34666666}
-      - {x: 0.76, y: 0.6666667}
-      - {x: 0.74, y: 0.7066667}
-      - {x: 0.7066667, y: 0.73333335}
-      - {x: -0.73333335, y: 0.73333335}
-      - {x: -0.7666667, y: 0.7066667}
-      - {x: -0.7733334, y: 0.66}
-      - {x: -0.7733334, y: -0.6}
-      - {x: -0.74, y: -0.7}
-      - {x: -0.68666667, y: -0.73333335}
-      - {x: 0.13333334, y: -0.73333335}
-      - {x: 0.6933333, y: -0.7266667}
-      - {x: 0.73333335, y: -0.72}
-      - {x: 0.7733334, y: -0.67333335}
 --- !u!212 &709502103
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17260,32 +17218,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 443d9eddc11ec47d88ea6debceb8ad9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!61 &709502105
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 709502091}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.060705513, y: 0.8752625}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5466666, y: 1.4666667}
-    newSize: {x: 0.92753625, y: 1.0144928}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.0610423, y: 0.7890699}
-  m_EdgeRadius: 0
 --- !u!331 &709502106
 SpriteMask:
   m_ObjectHideFlags: 0
@@ -17329,9 +17261,9 @@ SpriteMask:
   m_BackSortingLayerID: 0
   m_FrontSortingLayer: 0
   m_BackSortingLayer: 0
-  m_FrontSortingOrder: 0
-  m_BackSortingOrder: 0
-  m_IsCustomRangeActive: 0
+  m_FrontSortingOrder: 103
+  m_BackSortingOrder: 101
+  m_IsCustomRangeActive: 1
   m_SpriteSortPoint: 0
 --- !u!1001 &711916214
 PrefabInstance:
@@ -28753,7 +28685,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 103
+  m_SortingOrder: 104
   m_RenderMode: 0
   m_SortMode: 1
   m_MinParticleSize: 0
@@ -33667,9 +33599,9 @@ SpriteMask:
   m_BackSortingLayerID: 0
   m_FrontSortingLayer: 0
   m_BackSortingLayer: 0
-  m_FrontSortingOrder: 0
-  m_BackSortingOrder: 0
-  m_IsCustomRangeActive: 0
+  m_FrontSortingOrder: 103
+  m_BackSortingOrder: 103
+  m_IsCustomRangeActive: 1
   m_SpriteSortPoint: 0
 --- !u!4 &1062069916 stripped
 Transform:
@@ -39613,6 +39545,77 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1197322762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1197322763}
+  - component: {fileID: 1197322765}
+  - component: {fileID: 1197322764}
+  m_Layer: 2
+  m_Name: carryObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1197322763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197322762}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 709502092}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1197322764
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197322762}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.61204183}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.49300563}
+  m_EdgeRadius: 0
+--- !u!114 &1197322765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197322762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 159b674a37872874493500ccd0a6da7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  children: []
 --- !u!1 &1198090563
 GameObject:
   m_ObjectHideFlags: 0
@@ -72443,7 +72446,7 @@ GameObject:
   - component: {fileID: 1704842955}
   m_Layer: 0
   m_Name: minecart_timeObject
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -73993,8 +73996,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1930117098}
-  m_LocalRotation: {x: -0, y: -0, z: 0.06240492, w: -0.9980509}
-  m_LocalPosition: {x: 108.32, y: 19.27, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.06240735, w: 0.99805075}
+  m_LocalPosition: {x: 115.28, y: 19.04, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -75164,7 +75167,7 @@ GameObject:
   - component: {fileID: 2048615047}
   - component: {fileID: 2048615046}
   m_Layer: 8
-  m_Name: timeObject
+  m_Name: timeObject_Minecart
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75310,7 +75313,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 103
+  m_SortingOrder: 106
   m_RenderMode: 0
   m_SortMode: 1
   m_MinParticleSize: 0
@@ -80210,9 +80213,9 @@ SpriteMask:
   m_BackSortingLayerID: 0
   m_FrontSortingLayer: 0
   m_BackSortingLayer: 0
-  m_FrontSortingOrder: 0
-  m_BackSortingOrder: 0
-  m_IsCustomRangeActive: 0
+  m_FrontSortingOrder: 107
+  m_BackSortingOrder: 105
+  m_IsCustomRangeActive: 1
   m_SpriteSortPoint: 0
 --- !u!1 &2067480328 stripped
 GameObject:
@@ -80634,7 +80637,7 @@ GameObject:
   - component: {fileID: 2141808631}
   m_Layer: 2
   m_Name: carryObject
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -80665,6 +80668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 159b674a37872874493500ccd0a6da7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  children: []
 --- !u!61 &2141808632
 BoxCollider2D:
   m_ObjectHideFlags: 0

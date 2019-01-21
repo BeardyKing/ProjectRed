@@ -218,7 +218,7 @@ public class PlayerController : MonoBehaviour {
 
     void changeState()
     {
-        if(playerState == "move")
+        if(playerState == "move" && isGrounded)
         {
             playerState = "aim";
         }
