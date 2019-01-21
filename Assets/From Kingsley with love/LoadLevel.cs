@@ -44,4 +44,8 @@ public class LoadLevel : MonoBehaviour {
 	void WaitBeforeLoad(){
 		SceneManager.LoadScene(levelSelected);
 	}
+
+	public void ExitGame() {
+		Application.Quit();
+	}
 }
