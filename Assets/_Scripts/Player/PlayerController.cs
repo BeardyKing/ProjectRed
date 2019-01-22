@@ -221,11 +221,16 @@ public class PlayerController : MonoBehaviour {
         if(playerState == "move" && isGrounded)
         {
             playerState = "aim";
+
         }
 
         else if (playerState == "aim")
         {
             playerState = "move";
+            rightPressed = false;
+            leftPressed = false;
+            jumpPressed = false;
+            tryClimb = false;
         }
     }
 

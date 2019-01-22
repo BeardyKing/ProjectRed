@@ -11,6 +11,9 @@ public class MinecartScript : MonoBehaviour {
     float xDir;
     public bool on;
 
+
+    public GameObject Box;
+
     public bool  onTracks;
 
     public GeneratorScript generator;
@@ -66,7 +69,7 @@ public class MinecartScript : MonoBehaviour {
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject == leftStop || collision.gameObject == rightStop){
+        if(collision.gameObject == leftStop || collision.gameObject == rightStop|| collision.gameObject == Box){
             xDir *= -1;
         }
     }

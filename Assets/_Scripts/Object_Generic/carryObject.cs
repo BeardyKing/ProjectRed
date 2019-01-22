@@ -5,7 +5,12 @@ using UnityEngine;
 public class carryObject : MonoBehaviour {
 
 
-    Transform parent;
+   public  Transform parent;
+
+
+
+    public Vector3 offset;
+
 
 
     public List<GameObject> children;
@@ -16,7 +21,7 @@ public class carryObject : MonoBehaviour {
     float age = 0;
 	// Use this for initialization
 	void Start () {
-        parent = transform.parent;
+       
         oldPos = transform.position;
 	}
 
@@ -25,7 +30,7 @@ public class carryObject : MonoBehaviour {
    
     private void Update()
     {
-
+        transform.position = parent.position + offset;
         newPos = transform.position;
 
         if(Mathf.Abs(newPos.x-oldPos.x) > 1f)
@@ -48,8 +53,16 @@ public class carryObject : MonoBehaviour {
     {
        
         if(collision.gameObject.tag == "Player" || collision.gameObject.tag == "Ground")
-      
-            children.Add(collision.gameObject);
+        {
+           if(collision.gameObject != parent.gameObject) {
+
+                children.Add(collision.gameObject);
+            }
+
+
+        }
+
+       
     }
 
     private void OnTriggerExit2D(Collider2D collision)
