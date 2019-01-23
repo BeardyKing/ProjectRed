@@ -12,6 +12,9 @@ public class carryObject : MonoBehaviour {
     public Vector3 offset;
 
 
+    public Transform other;
+
+
 
     public List<GameObject> children;
 
@@ -56,6 +59,7 @@ public class carryObject : MonoBehaviour {
         {
            if(collision.gameObject != parent.gameObject) {
 
+                if (children.Contains(collision.gameObject)!=true)
                 children.Add(collision.gameObject);
             }
 

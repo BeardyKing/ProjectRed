@@ -14,7 +14,7 @@ public class ParallaxController2 : MonoBehaviour {
 
 	[Header("Level")]
 	[Space(5)]
-	public int currentLevel;
+	public int currentLevel = 0;
 	public bool isActive;
 
 	[Space(10)]

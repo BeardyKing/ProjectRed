@@ -8,15 +8,25 @@ public class SetParralaxLevel : MonoBehaviour {
 	public int currentLevel;
 
 	void OnTriggerEnter2D(Collider2D collision) {
-		para.currentLevel = currentLevel;
-	}
+        if (collision.gameObject.tag == "Player")
+        {
+            para.currentLevel = currentLevel;
+        }
+    }
 
 	// overkill fix
 	void OnTriggerStay2D(Collider2D collision) {
-		para.currentLevel = currentLevel;
-	}
+        if (collision.gameObject.tag == "Player")
+        {
+            //para.currentLevel = currentLevel;
+        }
+        Debug.Log(collision.gameObject.tag);
+    }
 
 	void OnTriggerExit2D(Collider2D collision) {
-		para.currentLevel = 0;
+        if (collision.gameObject.tag == "Player")
+        {
+            para.currentLevel = 0;
+        }
 	}
 }
