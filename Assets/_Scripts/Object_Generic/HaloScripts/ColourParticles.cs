@@ -91,7 +91,9 @@ public class ColourParticles : MonoBehaviour
 
             if (findShape)
             {
-                shape.sprite = GetComponent<SpriteRenderer>().sprite;
+
+                shape.sprite = GetComponent<AnimationManager>().timeSprites[StaticData.CurrentAge - 1];
+
                 findShape = false;
             }
         }
