@@ -23,7 +23,7 @@ public class AgeChanger : MonoBehaviour {
         if(controller.playerState != "aim")
         {
             ScrollToNextAge();
-            TestingAgeChanger();
+           // TestingAgeChanger();
             UpdateRefAge();
         }
        
