@@ -46,7 +46,7 @@ public class animatePlayer : MonoBehaviour {
 	}
 
 	void Running(){
-		if (controller.xDir != 0) {
+		if (controller.xDir != 0 && StaticData.GameState == "running" ) {
 			anim.SetBool("running", true);
 		} else {
 			anim.SetBool("running", false);

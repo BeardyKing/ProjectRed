@@ -3206,11 +3206,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.6
+      value: -46.58
       objectReference: {fileID: 0}
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.9
+      value: -1.37
       objectReference: {fileID: 0}
     - target: {fileID: 4465864127777360, guid: 1382c2fac62b6487a8a4ba7602366544, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9336,6 +9336,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19cbe9ed440d74020bcd11a44c080036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &428316178 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 95496076801505612, guid: 1382c2fac62b6487a8a4ba7602366544,
+    type: 3}
+  m_PrefabInstance: {fileID: 282175166}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &446399471
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71853,6 +71859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadLevel: {fileID: 825979201}
   anim: {fileID: 1930117099}
+  playerAnim: {fileID: 428316178}
 --- !u!1 &1752065618
 GameObject:
   m_ObjectHideFlags: 0
