@@ -112,15 +112,15 @@ public class FreezeGun : MonoBehaviour {
 
             //print(hit2D.collider.name);
 
-            if(hit2D.collider.gameObject.layer == timeObjects)
+            if(hit2D.collider.gameObject.layer == 8)
             {
                 currentObject = hit2D.collider.gameObject;
                 //print("HIT A TIME OBJECT");
             }
             else
             {
-                currentObject = hit2D.collider.gameObject;
-                //print("HIT ANOTHER OBJECT");
+				currentObject = null;
+                //print(hit2D.collider.gameObject.layer);
             }
 
             extra = (direction).normalized * 0.2f;

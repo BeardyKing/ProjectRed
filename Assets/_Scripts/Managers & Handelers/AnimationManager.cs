@@ -84,6 +84,7 @@ public class AnimationManager : MonoBehaviour {
 
         if(posData != null)
         {
+
             transform.position = posData[StaticData.CurrentAge - 1];
         }
         

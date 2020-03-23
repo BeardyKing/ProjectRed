@@ -17,12 +17,20 @@ public class Respawn : MonoBehaviour {
 
         if(other.gameObject == player){
             other.gameObject.GetComponent<Animator>().SetTrigger("die");
+            player.GetComponent<PlayerController>().playerState = "Respawn";
         }
 
     }
 
 
-
+    public void die()
+    {
+      
+        {
+            player.gameObject.GetComponent<Animator>().SetTrigger("die");
+            player.GetComponent<PlayerController>().playerState = "Respawn";
+        }
+    }
 
     public void spawn(){
         player.transform.position = Spawnpoint[CurrentSpawnPoint].transform.position;

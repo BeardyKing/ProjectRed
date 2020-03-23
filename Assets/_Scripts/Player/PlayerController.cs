@@ -55,7 +55,13 @@ public class PlayerController : MonoBehaviour {
 		lastPos = currentPos;
 	}
 
-	void Update() {
+
+    public void AAA_SpawnFinished()
+    {
+        playerState = "move";
+    }
+
+    void Update() {
 		if (StaticData.GameState == "running") {
 
             if(playerState == "move")
@@ -64,7 +70,7 @@ public class PlayerController : MonoBehaviour {
                 Movement();
 
             }
-            else
+            else if(playerState == "aim")
             {
                 xDir = 0;
                 leftPressed = false;
@@ -76,6 +82,7 @@ public class PlayerController : MonoBehaviour {
                 changeState();
                 print("Q");
             }
+            KeyUp();
 
         } else {
 			//END OF GAME;
@@ -96,7 +103,7 @@ public class PlayerController : MonoBehaviour {
 
 	void KeyboardInput() {
 		KeyDown();
-		KeyUp();
+		
 	}
 
 	void Movement() {
@@ -150,7 +157,7 @@ public class PlayerController : MonoBehaviour {
     }
 
 	void Jump() {
-		if(jumpSinglePass == false){
+		if(jumpSinglePass == false && playerState == "move"){
 			GetComponent<Rigidbody2D>().AddForce(Vector3.up * jumpForce);
 			jumpSinglePass = true;
 		}
@@ -212,14 +219,21 @@ public class PlayerController : MonoBehaviour {
 
     void changeState()
     {
-        if(playerState == "move")
+        if(playerState == "move" && isGrounded)
         {
             playerState = "aim";
+
         }
 
         else if (playerState == "aim")
         {
             playerState = "move";
+            rightPressed = false;
+            leftPressed = false;
+            jumpPressed = false;
+            tryClimb = false;
+            jumpSinglePass = true;
+            doJump = false;
         }
     }
 

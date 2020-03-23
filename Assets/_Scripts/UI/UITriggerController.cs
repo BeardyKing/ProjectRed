@@ -39,6 +39,10 @@ public class UITriggerController : MonoBehaviour {
 			lerpToPlayer.SetPosOfUI();
 			controller.InvokeOnEnterTrigger(2);
 		}
+		if (other.gameObject.tag == "space_tut") {
+			lerpToPlayer.SetPosOfUI();
+			controller.InvokeOnEnterTrigger(5);
+		}
 		if (other.gameObject.tag == "UI_aim") {
 			lerpToPlayer.SetPosOfUI();
 			Invoke("DoInOneSecond", .3f);
@@ -78,6 +82,10 @@ public class UITriggerController : MonoBehaviour {
 			controller.InvokeOnExitTrigger();
 		}
 		if (other.gameObject.tag == "UI_aim") {
+			lerpToPlayer.isActive = false;
+			controller.InvokeOnExitTrigger();
+		}
+		if (other.gameObject.tag == "space_tut") {
 			lerpToPlayer.isActive = false;
 			controller.InvokeOnExitTrigger();
 		}

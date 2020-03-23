@@ -32,7 +32,20 @@ public class LoadLevel : MonoBehaviour {
 		Invoke("WaitBeforeLoad", 1);
 	}
 
+	public void SelectLevelWait2(int input) {
+		levelSelected = input;
+		if (singlePass == false) {
+			singlePass = true;
+			box.startTransition = true;
+		}
+		Invoke("WaitBeforeLoad",4);
+	}
+
 	void WaitBeforeLoad(){
 		SceneManager.LoadScene(levelSelected);
+	}
+
+	public void ExitGame() {
+		Application.Quit();
 	}
 }

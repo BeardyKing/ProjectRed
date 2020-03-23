@@ -15,7 +15,7 @@ public class UI_fade_controller : MonoBehaviour {
 	public GameObject[] children;
 	public SpriteRenderer[] childImages;
 
-	[Range(0,4)]
+	[Range(0,5)]
 	public int activeUI;
 	public string state;
 	bool singlePass = true;
@@ -27,7 +27,7 @@ public class UI_fade_controller : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		KeyboardController();
+	//	KeyboardController();
 
 		if (state == "fade-in") {
 			MoveDir(0);

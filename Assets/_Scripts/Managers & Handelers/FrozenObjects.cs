@@ -32,7 +32,7 @@ public class FrozenObjects : MonoBehaviour {
 
 
         getStaticData();
-        setUISprites();
+        //setUISprites();
 
 
         debugCancel(); // remove later
