@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/From Kingsley with love/Title_Screen.unity
+    path: Assets/Levels/Title_Screen.unity
     guid: f07c59b3136aa4300923cb7918f3d032
   - enabled: 1
-    path: Assets/Levels/levels/AAA_Final.unity
+    path: Assets/Levels/AAA_Final.unity
     guid: 969496b0cbd9e7f47ae758573fb71f8e
   - enabled: 1
-    path: Assets/From Kingsley with love/Controls.unity
+    path: Assets/Levels/Controls.unity
     guid: 9e2a19547a00f4408a57961f1f26fd5e
   - enabled: 1
-    path: Assets/From Kingsley with love/Credits.unity
+    path: Assets/Levels/Credits.unity
     guid: 5ded298df5a834cc89f54c8278e42ead
   - enabled: 0
     path: Assets/Levels/levels/Level_1.unity
